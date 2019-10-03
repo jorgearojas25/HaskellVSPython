@@ -1,4 +1,3 @@
-# Ejercicios: Diapositivas xxxxx
 
 def cuadrado(numero):
   if numero == 0: 
